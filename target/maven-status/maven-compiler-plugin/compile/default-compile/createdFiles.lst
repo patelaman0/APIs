@@ -1,0 +1,4 @@
+com\demo\APIs\Service\ItemService.class
+com\demo\APIs\Controller\ItemController.class
+com\demo\APIs\ApIsApplication.class
+com\demo\APIs\Entity\ItemModel.class
