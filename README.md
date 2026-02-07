@@ -32,6 +32,13 @@ Adds a new item to the system.
 }
 
 ````
+**You get Response**
+
+```json
+{
+  Entry Saved
+}
+````
 ### 2. View Item
 
 **GET** `/item/view/{id}`
@@ -46,5 +53,15 @@ Retrieve details of an item by its ID.
 }
 
 ````
+
+**You get Response**
+
+```json
+{
+  "id": 1,
+  "name": "Laptop",
+  "description": "For daily use it is good",
+  "price": 199999
+}
 
 
